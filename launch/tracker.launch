@@ -1,0 +1,3 @@
+<launch>
+    <node name="openni2_grabber" pkg="openni2_aruco_tracker" type="openni2_aruco_tracker" args="false" output="screen"/>
+</launch>
